@@ -5,4 +5,11 @@ theme = 'ananke'
 
 [caches]
   [caches.images]
+git add .
+git commit -m "Remove broken GitHub Actions workflow"
+git push
     dir = ':cacheDir/images'
+baseURL = "https://aishwarya0-max.github.io/Information-Science-/"
+languageCode = "en-us"
+title = "Information Science"
+
