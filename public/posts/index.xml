@@ -9,18 +9,18 @@
     <lastBuildDate>Wed, 25 Feb 2026 11:24:37 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/Information-Science-/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Unit 1  : What is Information  </title>
-      <link>http://localhost:1313/Information-Science-/posts/about_myself/</link>
-      <pubDate>Wed, 25 Feb 2026 11:24:37 +0530</pubDate>
-      <guid>http://localhost:1313/Information-Science-/posts/about_myself/</guid>
-      <description>&lt;p&gt;This blog is to traverse through the ideologies of what do you mean by Information.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Introduction</title>
       <link>http://localhost:1313/Information-Science-/posts/my_first_journal/</link>
       <pubDate>Wed, 04 Feb 2026 11:31:03 +0530</pubDate>
       <guid>http://localhost:1313/Information-Science-/posts/my_first_journal/</guid>
       <description>&lt;h2 id=&#34;about-myself&#34;&gt;ABOUT MYSELF&lt;/h2&gt;&#xA;&lt;p&gt;Heyyyy… &lt;em&gt;Aishwarya&lt;/em&gt; here. Most people call me Aishu.&#xA;I&amp;rsquo;m an undergraduate student pursuing &lt;strong&gt;&lt;em&gt;Biology in Azim Premji University&lt;/em&gt;&lt;/strong&gt;. I like understanding how things work like cells, system, brain, habit. Biology is my core but I also enjoy coding, manupulating data and making graphs with R.&#xA;I also run &lt;strong&gt;marathon&lt;/strong&gt; as it is something which helps in building a displined life. I enjoy running with my running club friends outside campus while enjoying the striking scenary. It teaches me patience consistency and also humitity. Other than that I recenlty started sketching which makes me feel relaxed and in my zone.The main idea of this website to share my journey of understanding &lt;strong&gt;Information Science&lt;/strong&gt; and to showcase the thoughts while understanding concepts.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Unit 1  : What is Information  </title>
+      <link>http://localhost:1313/Information-Science-/posts/about_myself/</link>
+      <pubDate>Wed, 25 Feb 2026 11:24:37 +0530</pubDate>
+      <guid>http://localhost:1313/Information-Science-/posts/about_myself/</guid>
+      <description>&lt;p&gt;This blog is to traverse through the ideologies of what do you mean by Information. The first unit we covered was &amp;lsquo;What is Information&amp;rsquo; which is one of the most intresting thing I came across. In this unit we mainly covered &lt;strong&gt;&amp;ldquo;DIKW also known as the &lt;em&gt;Data Knowledge Wisdom model&lt;/em&gt;&amp;rdquo;&lt;/strong&gt;. At begning this felt more intuitive as this depicts the linear flow of information that is raw data which is gradually transformed into complex structures. The simplicity made me understand the progression but tranisition from knowledge wisdom was often blurry. Data was raw facts which then organised to form Information, knowldge comes from identifying these patterns, whereas wisdom is making decision based on our understanding.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

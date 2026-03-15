@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/Information-Science-/posts/my_first_journal/</loc>
+    <lastmod>2026-02-04T11:31:03+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/Information-Science-/</loc>
     <lastmod>2026-02-25T11:24:37+05:30</lastmod>
   </url><url>
@@ -10,9 +13,6 @@
   </url><url>
     <loc>http://localhost:1313/Information-Science-/posts/about_myself/</loc>
     <lastmod>2026-02-25T11:24:37+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Information-Science-/posts/my_first_journal/</loc>
-    <lastmod>2026-02-04T11:31:03+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/Information-Science-/categories/</loc>
   </url><url>
