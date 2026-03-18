@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Information Science | Aishwarya </title>
-    <link>https://aishwarya0-max.github.io/Information-Science-/posts/</link>
+    <link>http://localhost:1313/Information-Science-/posts/</link>
     <description>Recent content in Posts on Information Science | Aishwarya </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Feb 2026 11:24:37 +0530</lastBuildDate>
-    <atom:link href="https://aishwarya0-max.github.io/Information-Science-/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Mar 2026 21:56:48 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/Information-Science-/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction</title>
-      <link>https://aishwarya0-max.github.io/Information-Science-/posts/my_first_journal/</link>
+      <link>http://localhost:1313/Information-Science-/posts/my_first_journal/</link>
       <pubDate>Wed, 04 Feb 2026 11:31:03 +0530</pubDate>
-      <guid>https://aishwarya0-max.github.io/Information-Science-/posts/my_first_journal/</guid>
+      <guid>http://localhost:1313/Information-Science-/posts/my_first_journal/</guid>
       <description>&lt;h2 id=&#34;about-myself&#34;&gt;ABOUT MYSELF&lt;/h2&gt;&#xA;&lt;p&gt;Heyyyy… &lt;em&gt;Aishwarya&lt;/em&gt; here. Most people call me Aishu.&#xA;I&amp;rsquo;m an undergraduate student pursuing &lt;strong&gt;&lt;em&gt;Biology in Azim Premji University&lt;/em&gt;&lt;/strong&gt;. I like understanding how things work like cells, system, brain, habit. Biology is my core but I also enjoy coding, manupulating data and making graphs with R.&#xA;I also run &lt;strong&gt;marathon&lt;/strong&gt; as it is something which helps in building a displined life. I enjoy running with my running club friends outside campus while enjoying the striking scenary. It teaches me patience consistency and also humitity. Other than that I recenlty started sketching which makes me feel relaxed and in my zone.The main idea of this website to share my journey of understanding &lt;strong&gt;Information Science&lt;/strong&gt; and to showcase the thoughts while understanding concepts.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>UNIT 2  : Nature Of  Image Transformation</title>
+      <link>http://localhost:1313/Information-Science-/posts/second/</link>
+      <pubDate>Wed, 18 Mar 2026 21:56:48 +0530</pubDate>
+      <guid>http://localhost:1313/Information-Science-/posts/second/</guid>
+      <description>&lt;p&gt;Personally what stood out for me in this particular unit was that information problems are not only working with data but also making small manipulation to get a better understanding. Topic like &lt;em&gt;image transformation&lt;/em&gt; involves a lot of choices which hugely impact the outcome. &#xA;&lt;strong&gt;Image manipulation&lt;/strong&gt; was easier to connect as we had a template to work with and visualise flipping it or adjusting brightness by bringing changes in the pixels. This made me realise how information is represented and whether changes are reversible or associative. &#xA;Personally I found optimisation to be interesting yet hard as it connected towards  finding the &lt;strong&gt;best&lt;/strong&gt; solution but the methods were abstract. But I realised what is the &lt;em&gt;&lt;strong&gt;“best”&lt;/strong&gt;&lt;/em&gt; depends on how we choose the conditions. But these optimisation are something which wired into our brain that we regularly use in our day to day life. For example finding the &lt;em&gt;best route&lt;/em&gt; based on our needs like &lt;em&gt;least time, with more restaurants&lt;/em&gt; etc. Other would be budgeting were we set a value for each item to have a minimum amount to be spend.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Unit 1  : What is Information  </title>
-      <link>https://aishwarya0-max.github.io/Information-Science-/posts/about_myself/</link>
+      <link>http://localhost:1313/Information-Science-/posts/about_myself/</link>
       <pubDate>Wed, 25 Feb 2026 11:24:37 +0530</pubDate>
-      <guid>https://aishwarya0-max.github.io/Information-Science-/posts/about_myself/</guid>
+      <guid>http://localhost:1313/Information-Science-/posts/about_myself/</guid>
       <description>&lt;p&gt;This blog is to traverse through the ideologies of what do you mean by Information. The first unit we covered was &amp;lsquo;What is Information&amp;rsquo; which is one of the most intresting thing I came across. In this unit we mainly covered &lt;strong&gt;&amp;ldquo;DIKW also known as the &lt;em&gt;Data Knowledge Wisdom model&lt;/em&gt;&amp;rdquo;&lt;/strong&gt;. At begning this felt more intuitive as this depicts the linear flow of information that is raw data which is gradually transformed into complex structures. The simplicity made me understand the progression but tranisition from knowledge wisdom was often blurry. Data was raw facts which then organised to form Information, knowldge comes from identifying these patterns, whereas wisdom is making decision based on our understanding.&lt;/p&gt;</description>
     </item>
   </channel>
