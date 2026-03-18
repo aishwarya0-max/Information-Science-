@@ -1,8 +1,7 @@
 +++
 date = '2026-03-18T21:56:48+05:30'
-draft = true
+draft = false
 title = 'UNIT 2  : Nature Of  Image Transformation'
-weight = 3
 +++
 
 Personally what stood out for me in this particular unit was that information problems are not only working with data but also making small manipulation to get a better understanding. Topic like _image transformation_ involves a lot of choices which hugely impact the outcome. 
