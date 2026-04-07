@@ -2,9 +2,8 @@
 date = '2026-04-07T18:38:27+05:30'
 draft = false
 title = 'Unit 3 : Reflecting on Failure'
-weight = 5
+weight = 4
 +++
-## Unit 3 : Reflecting on Failure 
 
 Failure, was always something which was avoided or hidden due to it's association with it being a negative aspect. I tended to see it as something which was caused due to my own fault at a personal level. For example, while exams, I blamed myself for not performing well, beating myself for being incompetent. But the thing I ignored was the effort I have given for understanding the concept irrespective of the exam. This reshaping in thinking was due to this particular unit. This course, has significantly impacted me to push myself to develop  critical thinking to reduce errors but also develop ways to process them too. 
 
