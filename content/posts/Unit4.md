@@ -2,7 +2,7 @@
 date = '2026-05-11T19:50:01+05:30'
 draft = false
 title = 'UNIT 4 : Projects on communicating information'
-weight = 4
+weight = 5
 +++
 
 This blog will be covering my experience of working on the Metabase dashboard and chatboard projects under Unit 4. Compared to most of the theory based units and topics, this unit was quite different as it focused learning through experimentation and building function systems. Initially both of the projects were slightly overwhelming as the tools were entirely new and required different ways of approaching this with respect to regular assignments. 

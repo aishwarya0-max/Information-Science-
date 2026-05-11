@@ -2,7 +2,7 @@
 date = '2026-05-11T19:50:58+05:30'
 draft = false
 title = 'UNIT 5 : Considerations for Information Scientist'
-weight = 5
+weight = 6
 +++
 
 ## TURING TEST
